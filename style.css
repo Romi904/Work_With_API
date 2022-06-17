@@ -175,7 +175,7 @@ input{
         width: 96%;
     }
     #com{
-        width: 247px;
+        width: 236px;
     }
     #p{
         width: 158%;
@@ -189,5 +189,7 @@ input{
     #button{
         box-shadow: none;
     }
-
+    label{
+        margin-top: 10px;
+    }
 }
